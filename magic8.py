@@ -1,5 +1,5 @@
 import random
-# try to link again
+# try to link again x2
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
