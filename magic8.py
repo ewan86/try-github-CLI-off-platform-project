@@ -1,3 +1,5 @@
+import random
+# try to link again
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
